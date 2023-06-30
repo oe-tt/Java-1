@@ -3,7 +3,7 @@ package Lesson_1_dz;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class main {
+public class Main {
 
     // 1. генерируем случайное число от 0 до 2000
     public static int random_num (int min, int max) {
